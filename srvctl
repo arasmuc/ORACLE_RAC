@@ -1,0 +1,2 @@
+srvctl status database -d ALMA
+Database is running.
